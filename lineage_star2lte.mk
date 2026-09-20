@@ -28,8 +28,8 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 # Axion flags
-AXION_MAINTAINER := bobo
-AXION_PROCESSOR := exynos 9810 
+AXION_MAINTAINER := localhorst404Xbobo
+AXION_PROCESSOR := exynos_9810 
 TARGET_ENABLE_BLUR := false
 TARGET_INCLUDE_AXFX := true
 
